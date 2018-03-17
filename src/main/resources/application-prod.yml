@@ -1,0 +1,6 @@
+spring:
+  profiles: prod
+name: prod-YAML
+environment: prod
+server:
+  port: 8080

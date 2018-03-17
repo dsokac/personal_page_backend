@@ -1,0 +1,6 @@
+spring:
+  profiles: develop
+name: develop-YAML
+environment: develop
+server:
+  port: 8085
