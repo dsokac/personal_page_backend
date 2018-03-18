@@ -106,3 +106,4 @@ secrets.yml
 .gradletasknamecache
 .sts4-cacheblog/bin/
 **/.tern-project
+.vscode/settings.json
