@@ -9,3 +9,8 @@ name: develop-YAML
 environment: develop
 server:
   port: 8085
+  
+ppb:
+  files:
+    upload:
+      directory: "C://temp//"
