@@ -31,7 +31,7 @@ configurations {
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-validation')
 	compile('org.springframework.boot:spring-boot-starter-web')
-	compile('org.flywaydb:flyway-core:5.0.7')
+	compile('org.flywaydb:flyway-core')
 	compile('org.springframework.session:spring-session-core')
 	runtime('org.springframework.boot:spring-boot-devtools')
 	compile("org.springframework:spring-jdbc")
